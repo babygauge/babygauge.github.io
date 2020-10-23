@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a new start
+title: a fresh start
 ---
 
 ![buck.jpg]({{ site.baseurl }}/images/photos/berkeley-4.jpg)
