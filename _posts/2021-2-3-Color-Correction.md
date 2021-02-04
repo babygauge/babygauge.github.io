@@ -3,7 +3,8 @@ layout: post
 title: on color correction
 ---
 
-![erica.jpg]({{ site.baseurl }}/images/photos/color correction/erica.jpg)
+![turner.jpg]({{ site.baseurl }}/images/photos/color correction/turner.jpg)
+
 
 i watched '2046' a little while ago, having seen it last when i was ~14.  not a movie for kids!  themes too ~big~ for little developing brains.  its all about memory and regret and longing and how the past poisons the present which makes for a dystopian future or something.  heady shit!
 
@@ -15,7 +16,7 @@ on that resoundingly positive note, i got a roll of film back that i was extreme
 
 here they are:
 
-![turner.jpg]({{ site.baseurl }}/images/photos/color correction/turner.jpg)
+![erica.jpg]({{ site.baseurl }}/images/photos/color correction/erica.jpg)
 
 ![fifandhope.jpg]({{ site.baseurl }}/images/photos/color correction/fifandhope.jpg)
 
