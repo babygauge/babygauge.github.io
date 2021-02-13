@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-a friendly ghost....
+a friendly ghost :ghost:
 
 ### Contact me
 
